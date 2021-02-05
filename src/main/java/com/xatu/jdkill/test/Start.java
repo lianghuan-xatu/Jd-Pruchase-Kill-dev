@@ -1,4 +1,4 @@
-package com.zx.jdkill.test;
+package com.xatu.jdkill.test;
 
 import com.alibaba.fastjson.JSONObject;
 import com.sun.webkit.network.CookieManager;
@@ -13,7 +13,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author: zhaoxu
+ * @author: lianghuan
  * @date: 2021/1/8 20:59
  */
 public class Start {

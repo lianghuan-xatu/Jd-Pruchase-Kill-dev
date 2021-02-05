@@ -1,4 +1,4 @@
-package com.zx.jdkill.test;
+package com.xatu.jdkill.test;
 
 import com.alibaba.fastjson.JSONObject;
 
@@ -12,7 +12,7 @@ import java.util.Date;
 import java.util.Iterator;
 
 /**
- * @author: zhaoxu
+ * @author: lianghuan
  * @date: 2021/1/5 22:26
  */
 public class HttpUrlConnectionUtil {

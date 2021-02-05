@@ -1,4 +1,4 @@
-package com.zx.jdkill.test;
+package com.xatu.jdkill.test;
 
 import com.alibaba.fastjson.JSONObject;
 
@@ -11,7 +11,7 @@ import java.util.Map;
 
 
 /**
- * @author: zhaoxu
+ * @author: lianghuan
  * @date: 2021/1/8 20:51
  */
 public class RushToPurchase implements Runnable {

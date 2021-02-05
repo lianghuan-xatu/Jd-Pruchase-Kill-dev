@@ -1,4 +1,4 @@
-package com.zx.jdkill.test;
+package com.xatu.jdkill.test;
 
 import com.alibaba.fastjson.JSONObject;
 import com.sun.jna.Native;
@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author: zhaoxu
+ * @author: lianghuan
  * @date: 2021/1/9 18:59
  */
 public class Login {
